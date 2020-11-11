@@ -61,13 +61,14 @@ article.content
   height: 100%;
   overflow: visible;
 }
-.btn-group path{
+.btn-group path {
   fill: none;
-  stroke: white;
+  stroke: #eee;
   stroke-dasharray: 39, 99999;
   transition: all 1s ease-in-out;
   stroke-width: 2;
 }
+
 
 .slides {
   text-align: center;
@@ -128,24 +129,7 @@ article.content
   height: 32px;
   width: auto;
 }
-.btn:nth-child(2n):hover
-{
-  border-color: brown;
-  background: black;
-}
-.btn:nth-child(2n+1):hover
-{
-  border-color: brown;
-  background: white;
-}
-.btn:nth-child(2n){
-  border-color: black;
-  background: white;
-}
-.btn:nth-child(2n+1){
-  border-color: white;
-  background: black;
-}
+
 
 
 .nav {
