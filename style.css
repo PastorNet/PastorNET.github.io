@@ -90,7 +90,7 @@ article.content
   height: 100vh;
   width: 100vw;
   float: left;
-  background: rgba(0,0,0,0);
+  background: rgba(0,0,0,0.2);
   color: black;
 
 }
