@@ -63,7 +63,7 @@ article.content
 }
 .btn-group path {
   fill: none;
-  stroke: #eee;
+  stroke: brown;
   stroke-dasharray: 39, 99999;
   transition: all 1s ease-in-out;
   stroke-width: 2;
