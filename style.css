@@ -5,6 +5,16 @@ html
   overflow: hidden;
 
 }
+@media (max-width: 767px) {
+   html
+  {
+        position: fixed;
+  }
+   body {
+        position:fixed;
+     
+   }
+}
 body{
   display: flex;
   justify-items: flex-start;
