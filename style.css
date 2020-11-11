@@ -53,7 +53,7 @@ article.content
   height: 10px;
   width: 10px;
   border-radius: 50%;
-  border: 2px solid brown;
+  border: 2px solid rgba(165,42,42,0.3);
   margin-left: 6px;
   margin-top: 1px;
 }
