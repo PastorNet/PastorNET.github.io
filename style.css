@@ -3,7 +3,7 @@ html
   font-family: Monseratt, sans-serif;
   background-image: url(back.jpeg);
   overflow: hidden;
-  position: fixed;
+  position: relative;
  
 
 }
@@ -13,7 +13,7 @@ body{
   justify-items: flex-start;
   flex-direction: column;
   overflow: hidden;
-  position: fixed;
+  position: relative;
 
   padding: 0;
   margin: 0;
